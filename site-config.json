@@ -6,8 +6,18 @@
   "aboutText": "Welcome to Austin Westphal Music. This is a space for music that points to Jesus — through seasons of joy, moments of uncertainty, and the everyday journey of faith.",
   "aboutSecondParagraph": "My prayer is that every song becomes an invitation to draw closer to God and remember the hope we have in Him. Thank you for being part of the journey.",
   "email": "",
-  "streamingLinks": {"Spotify":"","Apple Music":"","YouTube":""},
-  "socialLinks": {"Instagram":"","Facebook":"","TikTok":""},
+  "streamingLinks": {
+    "Spotify": "",
+    "Apple Music": "",
+    "YouTube": ""
+  },
+  "socialLinks": {
+    "Instagram": "",
+    "Facebook": "",
+    "TikTok": ""
+  },
   "songs": [],
-  "events": []
+  "events": [],
+  "lyrics": [],
+  "chordCharts": []
 }
